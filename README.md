@@ -1,5 +1,5 @@
 
-![CI](https://github.com/reojeffi/reojeffi.github.io/workflows/CI/badge.svg)
+![CI](https://github.com/reojeffi/Portfolio-reojeffi-v1/workflows/CI/badge.svg)
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -23,7 +23,7 @@
 
 <!--# [Portfolio: REO JEFTON](https://reojeffi.github.io/Portfolio-reojeffi-v1) -->
 
-<img src="https://github.com/reojeffi/reojeffi.github.io/blob/master/assets/img/icons/icon-152x152.png" align="right" />
+<img src="https://github.com/reojeffi/Portfolio-reojeffi-v1/blob/master/assets/img/icons/icon-152x152.png" align="right" />
 
 # Portfolio: REO JEFTON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://reojeffi.github.io/Portfolio-reojeffi-v1)
 > Website to highlight my Software Developer Portfolio.
@@ -34,7 +34,7 @@
 <!--<br />
 <p align="center">
   <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">
-    <img src="https://github.com/reojeffi/reojeffi.github.io/blob/master/assets/img/icons/icon-152x152.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/reojeffi/Portfolio-reojeffi-v1/blob/master/assets/img/icons/icon-152x152.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Portfolio: Reo Jefton</h3>
@@ -47,18 +47,18 @@
     <br />
     <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
     ·
-    <a href="https://github.com/reojeffi/reojeffi.github.io/issues">Report Bug</a>
+    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/reojeffi/reojeffi.github.io/issues">Request Feature</a>
+    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Request Feature</a>
   </p>
 </p> -->
 
  <p align="center">
     <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
     ·
-    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1/issues">Report Bug</a>
+    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Report Bug</a>
     ·
-    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1/issues">Request Feature</a>
+    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Request Feature</a>
   </p>
   
 <!-- ABOUT THE PROJECT 
@@ -113,13 +113,13 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-round
-[contributors-url]: https://github.com/reojeffi/reojeffi.github.io/graphs/contributors
+[contributors-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-round
-[forks-url]: https://github.com/reojeffi/reojeffi.github.io/network/members
+[forks-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-round
-[stars-url]: https://github.com/reojeffi/reojeffi.github.io/stargazers
+[stars-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-round
-[issues-url]: https://github.com/reojeffi/reojeffi.github.io/issues
+[issues-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-round
 [license-url]: https://reojeffi.github.io/Portfolio-reojeffi-v1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-round&logo=linkedin&colorB=555
