@@ -21,11 +21,11 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
-<!--# [Portfolio: REO JEFTON](https://reojeffi.github.io) -->
+<!--# [Portfolio: REO JEFTON](https://reojeffi.github.io/Portfolio-reojeffi-v1) -->
 
 <img src="https://github.com/reojeffi/reojeffi.github.io/blob/master/assets/img/icons/icon-152x152.png" align="right" />
 
-# Portfolio: REO JEFTON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://reojeffi.github.io)
+# Portfolio: REO JEFTON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://reojeffi.github.io/Portfolio-reojeffi-v1)
 > Website to highlight my Software Developer Portfolio.
 
 ![](header.png)
@@ -33,7 +33,7 @@
 <!-- PROJECT LOGO -->
 <!--<br />
 <p align="center">
-  <a href="https://reojeffi.github.io">
+  <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">
     <img src="https://github.com/reojeffi/reojeffi.github.io/blob/master/assets/img/icons/icon-152x152.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -42,10 +42,10 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://reojeffi.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://reojeffi.github.io">View Demo</a>
+    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
     ·
     <a href="https://github.com/reojeffi/reojeffi.github.io/issues">Report Bug</a>
     ·
@@ -54,17 +54,17 @@
 </p> -->
 
  <p align="center">
-    <a href="https://reojeffi.github.io">View Demo</a>
+    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
     ·
-    <a href="https://reojeffi.github.io/issues">Report Bug</a>
+    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1/issues">Report Bug</a>
     ·
-    <a href="https://reojeffi.github.io/issues">Request Feature</a>
+    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1/issues">Request Feature</a>
   </p>
   
 <!-- ABOUT THE PROJECT 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://reojeffi.github.io)
+[![Product Name Screen Shot][product-screenshot]](https://reojeffi.github.io/Portfolio-reojeffi-v1)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -81,7 +81,7 @@ Here's why:
 
 
 
-[LIVE PREVIEW](https://reojeffi.github.io)
+[LIVE PREVIEW](https://reojeffi.github.io/Portfolio-reojeffi-v1)
 
 ## Contact:
 
@@ -121,7 +121,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-round
 [issues-url]: https://github.com/reojeffi/reojeffi.github.io/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-round
-[license-url]: https://reojeffi.github.io/blob/master/LICENSE.txt
+[license-url]: https://reojeffi.github.io/Portfolio-reojeffi-v1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-round&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/reo-jefton-638a99125
 [product-screenshot]: images/screenshot.png
