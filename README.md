@@ -1,5 +1,5 @@
 
-![CI](https://github.com/reojeffi/Portfolio-reojeffi-v1/workflows/CI/badge.svg)
+![CI](https://github.com/reojeffi/PortfolioRJ/workflows/CI/badge.svg)
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -21,11 +21,11 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
-<!--# [Portfolio: REO JEFTON](https://reojeffi.github.io/Portfolio-reojeffi-v1) -->
+<!--# [Portfolio: REO JEFTON](https://reojeffi.github.io/PortfolioRJ) -->
 
-<img src="https://github.com/reojeffi/Portfolio-reojeffi-v1/blob/master/assets/img/icons/icon-152x152.png" align="right" />
+<img src="https://github.com/reojeffi/PortfolioRJ/blob/master/assets/img/icons/icon-152x152.png" align="right" />
 
-# Portfolio: REO JEFTON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://reojeffi.github.io/Portfolio-reojeffi-v1)
+# Portfolio: REO JEFTON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://reojeffi.github.io/PortfolioRJ)
 > Website to highlight my Software Developer Portfolio.
 
 ![](header.png)
@@ -33,8 +33,8 @@
 <!-- PROJECT LOGO -->
 <!--<br />
 <p align="center">
-  <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">
-    <img src="https://github.com/reojeffi/Portfolio-reojeffi-v1/blob/master/assets/img/icons/icon-152x152.png" alt="Logo" width="80" height="80">
+  <a href="https://reojeffi.github.io/PortfolioRJ">
+    <img src="https://github.com/reojeffi/PortfolioRJ/blob/master/assets/img/icons/icon-152x152.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Portfolio: Reo Jefton</h3>
@@ -42,29 +42,29 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1"><strong>Explore the docs »</strong></a>
+    <a href="https://reojeffi.github.io/PortfolioRJ"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
+    <a href="https://reojeffi.github.io/PortfolioRJ">View Demo</a>
     ·
-    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Report Bug</a>
+    <a href="https://github.com/reojeffi/PortfolioRJ/issues">Report Bug</a>
     ·
-    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Request Feature</a>
+    <a href="https://github.com/reojeffi/PortfolioRJ/issues">Request Feature</a>
   </p>
 </p> -->
 
  <p align="center">
-    <a href="https://reojeffi.github.io/Portfolio-reojeffi-v1">View Demo</a>
+    <a href="https://reojeffi.github.io/PortfolioRJ">View Demo</a>
     ·
-    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Report Bug</a>
+    <a href="https://github.com/reojeffi/PortfolioRJ/issues">Report Bug</a>
     ·
-    <a href="https://github.com/reojeffi/Portfolio-reojeffi-v1/issues">Request Feature</a>
+    <a href="https://github.com/reojeffi/PortfolioRJ/issues">Request Feature</a>
   </p>
   
 <!-- ABOUT THE PROJECT 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://reojeffi.github.io/Portfolio-reojeffi-v1)
+[![Product Name Screen Shot][product-screenshot]](https://reojeffi.github.io/PortfolioRJ)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -81,7 +81,7 @@ Here's why:
 
 
 
-[LIVE PREVIEW](https://reojeffi.github.io/Portfolio-reojeffi-v1)
+[LIVE PREVIEW](https://reojeffi.github.io/PortfolioRJ)
 
 ## Contact:
 
@@ -113,15 +113,15 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-round
-[contributors-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/graphs/contributors
+[contributors-url]: https://github.com/reojeffi/PortfolioRJ/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-round
-[forks-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/network/members
+[forks-url]: https://github.com/reojeffi/PortfolioRJ/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-round
-[stars-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/stargazers
+[stars-url]: https://github.com/reojeffi/PortfolioRJ/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-round
-[issues-url]: https://github.com/reojeffi/Portfolio-reojeffi-v1/issues
+[issues-url]: https://github.com/reojeffi/PortfolioRJ/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-round
-[license-url]: https://reojeffi.github.io/Portfolio-reojeffi-v1/blob/master/LICENSE.txt
+[license-url]: https://reojeffi.github.io/PortfolioRJ/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-round&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/reo-jefton-638a99125
 [product-screenshot]: images/screenshot.png
