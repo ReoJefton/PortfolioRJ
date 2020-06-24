@@ -85,7 +85,7 @@ Here's why:
 
 ## Contact:
 
-* Follow Reo Jeffi: [Twitter](https://twitter.com/rjmysterio619), [GitHub](https://github.com/reojeffi)
+* Follow Reo Jeffi: [Twitter](https://twitter.com/reomystereo), [GitHub](https://github.com/reojeffi)
 
 <!-- ## Meta
 
