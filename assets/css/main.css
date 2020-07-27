@@ -2199,6 +2199,10 @@ body.c1 .content-wrapper2 {
     display: none;
 }
 
+body.c1 .content-wrapper3 {
+    display: none;
+}
+
 body.c2 .content-wrapper2 {
     opacity: 1;
     transform: scale(1);
@@ -2209,6 +2213,10 @@ body.c2 .content-wrapper {
     display: none;
 }
 
+body.c2 .content-wrapper3 {
+    display: none;
+}
+
 body.c3 .content-wrapper3 {
     opacity: 1;
     transform: scale(1);
@@ -2216,6 +2224,10 @@ body.c3 .content-wrapper3 {
 }
 
 body.c3 .content-wrapper {
+    display: none;
+}
+
+body.c3 .content-wrapper2 {
     display: none;
 }
 
