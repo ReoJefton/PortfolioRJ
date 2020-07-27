@@ -2209,6 +2209,16 @@ body.c2 .content-wrapper {
     display: none;
 }
 
+body.c3 .content-wrapper3 {
+    opacity: 1;
+    transform: scale(1);
+    visibility: visible;
+}
+
+body.c3 .content-wrapper {
+    display: none;
+}
+
 /*Home Image*/
 .home-image {
     z-index: -2;
