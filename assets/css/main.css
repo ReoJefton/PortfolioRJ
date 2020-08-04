@@ -2235,3 +2235,14 @@ body.c3 .content-wrapper2 {
 .home-image {
     z-index: -2;
 }
+
+
+.card {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card-container {
+    padding: 2px 8px;
+    outline: 1px solid #0f33ff;
+}
